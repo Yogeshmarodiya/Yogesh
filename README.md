@@ -20,7 +20,7 @@
   AVAILABLE
     
     
-    <hr>
+    </hr>
     
   ADDRESS:BILASPUR ROAD,PATAUDI NEAR BY PETROLPUMP.
   </hr>
